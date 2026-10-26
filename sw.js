@@ -1,4 +1,4 @@
-const CACHE_NAME = 'bizanalytics-v5';
+const CACHE_NAME = 'bizanalytics-v6';
 const ASSETS = [
   './',
   './index.html',
